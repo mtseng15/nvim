@@ -1,4 +1,4 @@
-# my_vim
+# My nvim setup
 
 #### Install Vim-Plug for Neovim
 
