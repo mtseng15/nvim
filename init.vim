@@ -12,6 +12,8 @@ Plug 'https://github.com/vim-syntastic/syntastic.git'
 
 Plug 'https://github.com/pangloss/vim-javascript.git'
 
+Plug 'sbdchd/neoformat'
+
 call plug#end()
 
 
