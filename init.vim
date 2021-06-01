@@ -26,6 +26,8 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
 Plug 'dense-analysis/ale'
 
+Plug 'https://github.com/tpope/vim-obsession.git'
+
 call plug#end()
 
 " Configuation to map the <tab> to Coc completion
